@@ -13,5 +13,5 @@
 - [ ] What do `soft voting` and `certify vote` mean in consensus?
 - [x] [Transaction Types](https://developer.algorand.org/docs/features/transactions/) and [Transaction References](https://developer.algorand.org/docs/reference/transactions/)
 - [ ] [Participate in Consensus Protocol](https://developer.algorand.org/docs/run-a-node/participate/)
-- [ ] [Single/Multi/Logic Sig](https://developer.algorand.org/docs/features/transactions/signatures/)
-- [ ] [Rekeying](https://developer.algorand.org/docs/features/accounts/rekey/)
+- [x] [Single/Multi/Logic Sig](https://developer.algorand.org/docs/features/transactions/signatures/)
+- [x] [Rekeying](https://developer.algorand.org/docs/features/accounts/rekey/)
